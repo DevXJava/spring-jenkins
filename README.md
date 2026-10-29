@@ -1,2 +1,2 @@
 # spring-jenkins
-spring jenkins testing 
+for jenkins testing purpose
