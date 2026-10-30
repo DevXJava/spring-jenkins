@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class SpringJenkinsApplication {
 	
-    //public static Logger logger = LoggerFactory.getLogger(SpringJenkinsApplication.class);
+    public static Logger logger = LoggerFactory.getLogger(SpringJenkinsApplication.class);
     
     @PostConstruct
     public void init() {
