@@ -29,6 +29,7 @@ public class SpringJenkinsApplication {
 		logger.info("Application Executed successfully !!!");
 		logger.info("Application Build Email Notifiaction Test ...!");
 		logger.info("Application Build Testing Pipeline ...!");
+		logger.info("Application Build Testing Automated Pipeline ...!");
 		
 
 		SpringApplication.run(SpringJenkinsApplication.class, args);
