@@ -30,6 +30,7 @@ public class SpringJenkinsApplication {
 		logger.info("Application Build Email Notifiaction Test ...!");
 		logger.info("Application Build Testing Pipeline ...!");
 		logger.info("Application Build Testing Pipeline 1 ...!");
+		logger.info("Application Build Testing Pipeline 2 ...!");
 		
 
 		SpringApplication.run(SpringJenkinsApplication.class, args);
