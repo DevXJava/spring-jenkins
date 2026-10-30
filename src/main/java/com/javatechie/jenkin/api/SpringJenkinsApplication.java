@@ -27,10 +27,8 @@ public class SpringJenkinsApplication {
 
 	public static void main(String[] args) {
 		logger.info("Application Executed successfully !!!");
-		logger.info("Application Executing Second time.............. !");
-		logger.info("Application Executing Third time.............. !");
-		logger.info("Application Executing Fourth time.............. !");
-
+		logger.info("Application Build Email Notifiaction Test ...!");
+		
 
 		SpringApplication.run(SpringJenkinsApplication.class, args);
 	}
